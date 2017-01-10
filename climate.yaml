@@ -1,0 +1,4 @@
+- platform: honeywell
+  username: !secret email_address
+  password: !secret honeywell_password
+  

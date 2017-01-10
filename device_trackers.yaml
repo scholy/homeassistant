@@ -1,0 +1,28 @@
+- platform: owntracks
+#- platform: bluetooth_tracker
+#- platform: nmap_tracker
+  #hosts: 192.168.0.1/24
+  #home_interval: 10
+  #exclude:
+   #- 192.168.0.1
+   #- 192.168.0.2
+   #- 192.168.0.3
+   #- 192.168.0.4
+   #- 192.168.0.5
+   #- 192.168.0.6
+   #- 192.168.0.7
+   #- 192.168.0.8
+   #- 192.168.0.9
+   #- 192.168.0.15
+   #- 192.168.0.50
+   #- 192.168.0.51
+   #- 192.168.0.52
+   #- 192.168.0.53
+   #- 192.168.0.70
+
+- platform: asuswrt
+  host: 192.168.0.1
+  username: !secret asus_uid
+  password: !secret asus_pwd
+
+- platform: locative

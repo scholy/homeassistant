@@ -1,0 +1,8 @@
+#- platform: pushbullet
+#  api_key: !secret pushbullet_api_key
+
+- name: rich_sms
+  platform: telstra
+  consumer_key: !secret telstra_key
+  consumer_secret: !secret telstra_secret
+  phone_number: !secret rich_mobile

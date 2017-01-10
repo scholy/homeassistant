@@ -1,0 +1,285 @@
+1172f3640d9543bfa5f8a1ca47cb115c:
+  hide_if_away: false
+  mac: BC:6C:21:A3:D2:09
+  name: Rich
+  picture: local/rk.jpg
+  track: true
+  vendor:
+
+ischolar:
+  hide_if_away: false
+  mac: BC:6C:21:A3:D2:09
+  name: Rich
+  picture: local/rk.jpg
+  track: true
+  vendor: Apple, Inc.
+
+c1e6cf9fb37e4d21b8038f5dced9c18e:
+  hide_if_away: false
+  mac: F4:31:C3:4C:23:03
+  name: Jing
+  picture: local/jj.jpg
+  track: true
+  vendor:
+
+jjiphone:
+  hide_if_away: false
+  mac: F4:31:C3:4C:23:03
+  name: jjiPhone
+  picture: local/jj.jpg
+  track: true
+  vendor: Apple, Inc.
+
+#richi6_richi6:
+  #name: Rich
+  #mac: BT_BC:6C:21:A3:D2:0A
+  #track: yes
+  #hide_if_away: no
+
+#rich_rich:
+  #hide_if_away: false
+  #mac: BC:6C:21:A3:D2:09
+  #name: rich
+  #picture: local/rk.jpg
+  #track: true
+  #vendor:
+
+#jingi6_jingi6:
+  #name: Jing
+  #mac: BT_F4:31:C3:4C:23:04
+  #track: yes
+  #hide_if_away: no
+
+#jing_jing:
+#  hide_if_away: false
+#  mac: F4:31:C3:4C:23:03
+#  name: jing
+#  picture: local/jj.jpg
+#  track: true
+#  vendor:
+
+avr:
+  hide_if_away: false
+  mac: 00:09:B0:43:6C:2D
+  name: AVR
+  picture:
+  track: false
+  vendor: Onkyo Corporation
+
+htpc:
+  hide_if_away: false
+  mac: 74:D0:2B:30:4C:89
+  name: htpc
+  picture:
+  track: false
+  vendor: ASUSTek COMPUTER INC.
+
+voip:
+  hide_if_away: false
+  mac: C4:0A:CB:BD:56:8E
+  name: voip
+  picture:
+  track: false
+  vendor: Cisco Systems, Inc
+
+tv:
+  hide_if_away: false
+  mac: 5C:A3:9D:0F:59:38
+  name: TV
+  picture:
+  track: false
+  vendor: SAMSUNG ELECTRO MECHANICS CO., LTD.
+
+gasthermostat:
+  hide_if_away: false
+  mac: 00:D0:2D:8C:CB:0B
+  name: GasThermostat
+  picture:
+  track: false
+  vendor: ADEMCO
+
+wemobridge:
+  hide_if_away: false
+  mac: C0:56:27:7C:E6:FD
+  name: WeMoBridge
+  picture:
+  track: false
+  vendor: Belkin International Inc.
+
+scholarpad:
+  hide_if_away: false
+  mac: 78:7E:61:E0:1D:D7
+  name: ScholarPad
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+jingsipad:
+  hide_if_away: false
+  mac: 9C:F3:87:8B:41:3E
+  name: Jings-iPad
+  picture:
+  track: false
+  vendor: Apple, Inc.
+
+scholar:
+  hide_if_away: false
+  mac: 74:D0:2B:8F:8E:3A
+  name: Scholar
+  picture:
+  track: false
+  vendor: ASUSTek COMPUTER INC.
+
+officelights:
+  hide_if_away: false
+  mac: 94:10:3E:4F:A3:B9
+  name: OfficeLights
+  picture:
+  track: false
+  vendor: Belkin International Inc.
+
+brains:
+  hide_if_away: false
+  mac: B8:27:EB:BC:F1:5C
+  name: brains
+  picture:
+  track: false
+  vendor: Raspberry Pi Foundation
+
+kitchenlights:
+  hide_if_away: false
+  mac: 94:10:3E:4F:A9:91
+  name: KitchenLights
+  picture:
+  track: false
+  vendor: Belkin International Inc.
+
+laundrylights:
+  hide_if_away: false
+  mac: 94:10:3E:4F:A5:D5
+  name: LaundryLights
+  picture:
+  track: false
+  vendor: Belkin International Inc.
+
+r90ky05n:
+  hide_if_away: false
+  mac: E4:B3:18:C0:55:76
+  name: R90KY05N
+  picture:
+  track: false
+  vendor: Intel Corporate
+
+patriciasiphone:
+  hide_if_away: true
+  mac: 40:33:1A:AD:00:68
+  name: Kerry
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+patriciasipad:
+  hide_if_away: false
+  mac: F4:F9:51:80:A9:7B
+  name: Patricias-iPad
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+adminisrsiphone:
+  hide_if_away: false
+  mac: DC:2B:61:65:30:86
+  name: AdminisrsiPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+mandarizipadno2:
+  hide_if_away: false
+  mac: A4:67:06:0C:8E:09
+  name: MandariziPadNo2
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+ltnbncnu410bjfk:
+  hide_if_away: false
+  mac: AC:7B:A1:67:A8:1D
+  name: LTNBNCNU410BJFK
+  picture:
+  track: true
+  vendor: unknown
+
+ltnbncnu410bjfk_2:
+  hide_if_away: false
+  mac: 00:1F:B5:26:B7:F5
+  name: LTNBNCNU410BJFK
+  picture:
+  track: true
+  vendor: I/O Interconnect Inc.
+
+iphone:
+  hide_if_away: false
+  mac: 80:EA:96:40:2A:85
+  name: iPhone
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+owensipad:
+  hide_if_away: false
+  mac: A4:67:06:9A:EE:BE
+  name: Owens-iPad
+  picture:
+  track: true
+  vendor: Apple, Inc.
+
+
+android62f13da952ab2365:
+  hide_if_away: false
+  mac: E4:44:23:C4:6A:DB
+  name: android-62f13da952ab2365
+  picture:
+  track: true
+  vendor: unknown
+
+owen:
+  hide_if_away: false
+  mac:
+  name: owen
+  picture:
+  track: true
+  vendor:
+
+riley:
+  hide_if_away: false
+  mac:
+  name: riley
+  picture:
+  track: true
+  vendor:
+
+laolao:
+  hide_if_away: false
+  mac:
+  name: laolao
+  picture:
+  track: true
+  vendor:
+
+
+rich_rich:
+  hide_if_away: false
+  mac:
+  name: rich
+  picture:
+  track: true
+  vendor:
+
+jing_jing:
+  hide_if_away: false
+  mac:
+  name: jing
+  picture:
+  track: true
+  vendor:
